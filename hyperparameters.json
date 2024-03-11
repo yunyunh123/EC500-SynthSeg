@@ -1,0 +1,10 @@
+{
+	"affine": {
+		"rotation": [-30, 30],
+		"scaling": [0.8, 1.2],
+		"shearing": [-0.015, 0.015],
+		"translation": [-0.2, 0.2]
+	},
+	"nonlinear": {
+	}
+}
