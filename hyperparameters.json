@@ -6,5 +6,13 @@
 		"translation": [-0.2, 0.2]
 	},
 	"nonlinear": {
+	},
+	"gmm": {
+		"mean": [0, 255],
+		"std": [0, 35]
+	},
+	"fourier": {
+		"bands": [1, 10]
+
 	}
 }
